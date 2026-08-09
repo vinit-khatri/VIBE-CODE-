@@ -45,7 +45,7 @@ Download the code, push to GitHub, or deploy directly from Emergent.
 Follow this workflow to create your own front-end website using Emergent AI:
 
 1. Sign Up
-Go to https://emergent.sh and create an account.
+Go to [Emergent AI](https://emergent.sh) and create an account.
 
 2. Start a New Project
 Choose “Landing Page” or “Web App” depending on your goal.
