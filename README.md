@@ -1,4 +1,4 @@
-
+ 
 [![CLICK HERE-EZshopy](https://img.shields.io/badge/Style-EZ%20Shopy-0ea5e9)](https://shopy-animate.preview.emergentagent.com/?utm_source=share)
 
 
@@ -218,4 +218,7 @@ This project is open source and available under the MIT License.
 Built with ❤️ using Vibe Coding on Emergent AI
 No code written manually — just pure prompts and iteration.
 Built with ❤️ using vibe coding + Emergent AI.
+
+yup thats vibecoding
+
 ‎
