@@ -2,9 +2,9 @@
 [![CLICK HERE-EZshopy](https://img.shields.io/badge/Style-EZ%20Shopy-0ea5e9)](https://shopy-animate.preview.emergentagent.com/?utm_source=share)
 
 
-Frontend Website — Built with Vibe Coding on Emergent AI
+Frontend Website — Built with Vibe Coding on Emergent AI .
 A clean, responsive front‑end website generated using vibe coding with Emergent AI. No manual coding required — just describe what you want, and the AI builds it.
-# ✨ VIBE-CODE Frontend Website
+# ✨ VIBE-CODE Frontend Website .
 
 🚀 What is Vibe Coding?
 Vibe coding is a modern approach to software development where you describe your goals in plain English (your “vibe”), and an AI agent generates the actual code for you.
